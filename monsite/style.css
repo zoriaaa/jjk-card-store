@@ -1,0 +1,30 @@
+
+h1{
+    font-size: 25px;
+    color: blue;
+
+    
+}
+
+.block-1 {
+    block-size: left;
+    width: 50%;
+}
+
+.block-2 {
+    block-size: right;
+    width: 50%;
+}
+
+
+.left image {
+    width: 400px;
+    height: auto;
+    margin-left: 400px;
+}  
+
+.right image {
+    width: 400px;
+    height: auto;
+    margin-right: auto;
+}
